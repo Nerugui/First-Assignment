@@ -1,0 +1,8 @@
+As requested for making a game concept for our FPS project for the end of the semester:
+
+I really enjoyed the game "Super Smash TV" for the SNES as a kid. So I was thinking of mimicking that concept for my FPS game.
+So essentially, the player would have to clear rooms of enemies to advance and try to get as far as possible through the levels.
+I'm hoping to add a few different weapon types and maybe some mechanics depending on how much time permits and my limited experience with unity allows.
+
+Thank you
+-Anthony Mantini 

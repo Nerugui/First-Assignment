@@ -66,6 +66,9 @@
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -80,6 +83,21 @@
  </Reference>
  <Reference Include="UnityEditor.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="RAIN">
+ <HintPath>C:/Users/Anton/Desktop/Project 2/Assets/RAIN/RAIN.dll</HintPath>
+ </Reference>
+ <Reference Include="RAINMetaform">
+ <HintPath>C:/Users/Anton/Desktop/Project 2/Assets/RAIN/RAINMetaform.dll</HintPath>
+ </Reference>
+ <Reference Include="RAINEditor">
+ <HintPath>C:/Users/Anton/Desktop/Project 2/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="RAINMetaformEditor">
+ <HintPath>C:/Users/Anton/Desktop/Project 2/Assets/RAIN/Editor/RAINMetaformEditor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -113,18 +131,6 @@
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/macstandalonesupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="RAINMetaformEditor">
- <HintPath>C:/Users/Anton/Desktop/Project 2/Assets/RAIN/Editor/RAINMetaformEditor.dll</HintPath>
- </Reference>
- <Reference Include="RAINMetaform">
- <HintPath>C:/Users/Anton/Desktop/Project 2/Assets/RAIN/RAINMetaform.dll</HintPath>
- </Reference>
- <Reference Include="RAIN">
- <HintPath>C:/Users/Anton/Desktop/Project 2/Assets/RAIN/RAIN.dll</HintPath>
- </Reference>
- <Reference Include="RAINEditor">
- <HintPath>C:/Users/Anton/Desktop/Project 2/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>

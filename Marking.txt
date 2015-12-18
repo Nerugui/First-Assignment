@@ -1,0 +1,30 @@
+Have a lot of underlying code that 
+wasn't implemented but is completed for future
+use and a good groundwork /foundation for this
+project. Didn't have everything completed but 
+I feel like there was a lot of effort and time
+put into this project. We have a lot of 
+implementation, and the result turned out great.
+
+Unfortunately, we didn't have time to implement
+the rest of the things we wanted and expand the
+level further. But what we have right now is 
+a lot.
+
+I think with what we did would equate to a 95%
+mark. Losing 5% for not impletmenting the 
+health(though the ui for it is done and 
+functional), and taking damage and ammo system.
+
+We have two guns(though pistol wasn't 
+implemented to do damage to enemies and no 
+weapon swap). Navmesh functionality, enemies
+with AI, and they also die. Destructable walls,
+trigger events and various other things. It 
+was a fun project to create overall. 
+
+I worked together with Giancarlo Mora. 
+
+Thank you 
+~Anthony Mantini
+
